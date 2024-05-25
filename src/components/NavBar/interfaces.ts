@@ -1,4 +1,4 @@
-export interface AppProps
+export interface NavBarProps
   extends Partial<{
     dataTestId: string
   }> {}
